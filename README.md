@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/hets-projects-6eaa7811/v0-agentic-ai-scheduling-system](https://vercel.com/hets-projects-6eaa7811/v0-agentic-ai-scheduling-system)**
+**[https://v0-agentic-ai-scheduling-system.vercel.app](https://v0-agentic-ai-scheduling-system.vercel.app)**
 
 ## Build your app
 
