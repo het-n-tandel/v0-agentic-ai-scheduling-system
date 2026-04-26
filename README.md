@@ -16,12 +16,6 @@ Your project is live at:
 
 **[https://v0-agentic-ai-scheduling-system.vercel.app](https://v0-agentic-ai-scheduling-system.vercel.app)**
 
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/WvhBbAlcnui](https://v0.dev/chat/projects/WvhBbAlcnui)**
-
 ## How It Works
 
 1. Create and modify your project using [v0.dev](https://v0.dev)
